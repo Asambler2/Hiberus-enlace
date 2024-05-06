@@ -1,0 +1,7 @@
+https://onedrive.live.com/?authkey=%21AGurEQShyj0zlug&id=1A1E821DF11BCD06%21614528&cid=1A1E821DF11BCD06
+
+HTTPS://tsuml-demo.firebaseapp.com Genera diagramas de clases a través de un código.
+
+base de datos: (localdb)\MSSQLLocalDB
+
+C:\Users\Alumno\AppData\Local\Microsoft\Microsoft SQL Server Local DB\Instances\MSSQLLocalDB
